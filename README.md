@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhi898" alt="iamabhi" /> </p>
 
-#### I'm in my 2nd year of Computer Science and Engineering 💻 at JSSATE Noida. <br>  I am an Mobile Developer exploring React Native and React, improving my developer's skills and building awesome applications.
+#### I'm in my 2nd year of Computer Science and Engineering 💻 at JSSATE Noida. <br>  I am a Mobile Developer exploring React Native and React, improving my developer's skills and building awesome applications.
  <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="400px" />
 
