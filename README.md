@@ -12,7 +12,7 @@
 - 🌱  I love to learn and explore new things and help others. 
 - ⚽  Interests and Hobbies: I love to read books, watch anime and play guitar (learning but I'm good enough😉).
 
-#### 📫  How to reach me: message me on LinkedIn [Abhishek Tripathi](https://www.linkedin.com/in/abhishek-tripathi-244a8b190/)
+#### 📫  How to reach me: message me on LinkedIn [Abhishek Tripathi](https://www.linkedin.com/in/iamabhi898/)
 
 <br>
 
@@ -27,7 +27,7 @@
 <a href="https://github.com/iamabhi898" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-tripathi-244a8b190/" target="_blank">
+<a href="https://www.linkedin.com/in/iamabhi898/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div> 
