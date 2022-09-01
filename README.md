@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="56" height="56"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg" alt="linux" width="56" height="56"/> 
 <br>
 
-## How to reach me?:
+## How to reach me?
 <div align="center">
 <a href="https://github.com/iamabhi898" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
