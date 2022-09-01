@@ -2,18 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhi898" alt="iamabhi" /> </p>
 
-#### I'm in my final year of Computer Science and Engineering. <br> Currently Focussing... 
+#### I'm in my final year of Computer Science and Engineering. <br> I enjoy solving problems and creating applications. <br> Currently Focussing... 
  <br>
-
-##  About
-- I enjoy solving problems and creating applications. 
-
-<br>
-
-##  🛠 Tech Stack
-
+ 
+##  Tech Stack
 <p align="center"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="56" height="56"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg" alt="linux" width="56" height="56"/> 
-
 <br>
 
 ## How to reach me?:
