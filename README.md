@@ -17,4 +17,7 @@
 <a href="https://www.linkedin.com/in/iamabhi898/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://leetcode.com/iamabhi898/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-orange?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a>
 </div> 
