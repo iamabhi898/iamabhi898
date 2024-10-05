@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhi898" alt="iamabhi" /> </p>
 
-#### I'm in my final year of Computer Science and Engineering. <br> I enjoy solving problems and creating applications. <br> Currently Focussing... 
+#### I enjoy solving problems and creating applications. <br> Currently Focussing... 
  <br>
  
 ##  Tech Stack
